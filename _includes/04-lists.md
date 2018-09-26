@@ -6,3 +6,6 @@ Replace this with a list of your favorite things.
    2. matplotlib
 3. C++
 4. g++
+* vacation
+- happy
+   * this is 
